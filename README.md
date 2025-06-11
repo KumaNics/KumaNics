@@ -1,10 +1,5 @@
 <h2 align="left">Olá👋! <br>Me chamo Nicolas Almeida, sou Analista de Dados 🇧🇷.</h2>
 
-###
-
-<img align="right" height="10" src="<a href="https://imgflip.com/i/9x0asf"><img src="https://i.imgflip.com/9x0asf.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>"  />
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
   <img width="12" />
