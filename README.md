@@ -2,8 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/9x0asf"  />
-<a href="https://imgflip.com/i/9x0asf"><img src="https://i.imgflip.com/9x0asf.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+<a href="https://imgflip.com/i/9x0asf"><img src="https://i.imgflip.com/9x0asf.jpg" </a></div>
 
 ###
 
