@@ -4,7 +4,7 @@
     <span>Nicolas Almeida</span>
     <img src="https://raw.githubusercontent.com/nicolasalmeidab/nicolasalmeidab/main/Tigre.gif" width="40px" style="margin-left: 10px;" />
   </h1>
-  <h3 align="center">Data Analyst | Analista de Dados 🇧🇷</h3>
+  <h3 align="center">Data Analyst | Analista de Dados</h3>
 </div>
 
 <br>
@@ -20,8 +20,8 @@
   
   - 🚀 Atualmente estou aprimorando minhas habilidades em [...]
   - 🌱 Estou aprendendo sobre [...]
-  - 💬 Fale comigo sobre: Análise de Dados, Business Intelligence, Python e Oracle.
-  - 📫 Como me encontrar: [nicolas.almeida.barros@gmail.com](mailto:nicolas.almeida.barros@gmail.com)
+  - 💬 Fale comigo sobre: Análise de Dados, Business Intelligence e Python.
+  - 📫 Como me encontrar: [nicolas.privado@gmail.com](mailto:nicolas.privado@gmail.com)
 
   ---
   
@@ -31,8 +31,8 @@
 
   - 🚀 I’m currently strengthening my skills in [...]
   - 🌱 I’m currently learning about [...]
-  - 💬 Ask me about: Data Analysis, Business Intelligence, Python, and Oracle.
-  - 📫 How to reach me: [nicolas.almeida.barros@gmail.com](mailto:nicolas.almeida.barros@gmail.com)
+  - 💬 Ask me about: Data Analysis, Business Intelligence and Python.
+  - 📫 How to reach me: [nicolas.privado@gmail.com](mailto:nicolas.privado@gmail.com)
   
   ---
 </details>
@@ -77,8 +77,8 @@
 <div align="center">
   <h3>Minhas Estatísticas no GitHub / My GitHub Stats</h3>
   <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumaNics&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumaNics&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
