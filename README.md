@@ -21,7 +21,7 @@
   - 🚀 Atualmente estou aprimorando minhas habilidades em [...]
   - 🌱 Estou aprendendo sobre [...]
   - 💬 Fale comigo sobre: Análise de Dados, Business Intelligence e Python.
-  - 📫 Como me encontrar: [nicolas.privado@gmail.com](mailto:nicolas.privado@gmail.com)
+  - 📫 Como me encontrar: [nicola.privado@gmail.com](mailto:nicola.privado@gmail.com)
 
   ---
   
@@ -32,7 +32,7 @@
   - 🚀 I’m currently strengthening my skills in [...]
   - 🌱 I’m currently learning about [...]
   - 💬 Ask me about: Data Analysis, Business Intelligence and Python.
-  - 📫 How to reach me: [nicolas.privado@gmail.com](mailto:nicolas.privado@gmail.com)
+  - 📫 How to reach me: [nicola.privado@gmail.com](mailto:nicola.privado@gmail.com)
   
   ---
 </details>
@@ -64,10 +64,10 @@
   <h3>Projetos em Destaque / Featured Projects</h3>
   <p>
     <a href="URL_DO_SEU_PROJETO_1" style="text-decoration: none;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_SEU_REPOSITORIO_1&theme=dark&show_owner=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KumaNics&repo=NOME_DO_SEU_REPOSITORIO_1&theme=dark&show_owner=true" />
     </a>
     <a href="URL_DO_SEU_PROJETO_2" style="text-decoration: none;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_SEU_REPOSITORIO_2&theme=dark&show_owner=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KumaNics&repo=NOME_DO_SEU_REPOSITORIO_2&theme=dark&show_owner=true" />
     </a>
     </p>
 </div>
@@ -86,13 +86,13 @@
 
 <div align="center">
   <h3>Conecte-se comigo / Connect with me</h3>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_DO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-almeida-hello" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/nic.php" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
+  <a href="mailto:nicola.privado@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
