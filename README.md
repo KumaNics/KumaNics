@@ -63,7 +63,7 @@
 <div>
   <h3>Projetos em Destaque / Featured Projects</h3>
   <p>
-    <a href="URL_DO_SEU_PROJETO_1" style="text-decoration: none;">
+    <a href="[URL_DO_SEU_PROJETO_1](https://github.com/Liess-Ind/Codigos_guia)" style="text-decoration: none;">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KumaNics&repo=NOME_DO_SEU_REPOSITORIO_1&theme=dark&show_owner=true" />
     </a>
     <a href="URL_DO_SEU_PROJETO_2" style="text-decoration: none;">
