@@ -64,7 +64,7 @@
   <h3>Projetos em Destaque / Featured Projects</h3>
   <p>
     <a href="https://github.com/Liess-Ind/Codigos_guia" style="text-decoration: none;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KumaNics&repo=Codigos_guia&theme=dark&show_owner=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KumaNics&repo=Liess-Ins/Codigos_guia&theme=dark&show_owner=true" />
     </a>
     </p>
 </div>
