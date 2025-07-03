@@ -63,10 +63,10 @@
 <div>
   <h3>Projetos em Destaque / Featured Projects</h3>
   <p>
-    <a href="[URL_DO_SEU_PROJETO_1](https://github.com/Liess-Ind/Codigos_guia)" style="text-decoration: none;">
+    <a href="[[URL_DO_SEU_PROJETO_1](https://github.com/Liess-Ind/Codigos_guia)](https://github.com/Liess-Ind/Codigos_guia)" style="text-decoration: none;">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KumaNics&repo=NOME_DO_SEU_REPOSITORIO_1&theme=dark&show_owner=true" />
     </a>
-    <a href="URL_DO_SEU_PROJETO_2" style="text-decoration: none;">
+    <a href="https://github.com/Liess-Ind/Codigos_guia" style="text-decoration: none;">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KumaNics&repo=NOME_DO_SEU_REPOSITORIO_2&theme=dark&show_owner=true" />
     </a>
     </p>
@@ -76,7 +76,7 @@
 
 <div align="center">
   <h3>Minhas Estatísticas no GitHub / My GitHub Stats</h3>
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
+  <a href="https://github.com/KumaNics">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumaNics&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumaNics&layout=compact&langs_count=7&theme=dark"/>
   </a>
