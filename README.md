@@ -1,6 +1,6 @@
 # 👨‍💻 Nicolas Almeida
 
-> Analista de Dados | Data Analyst
+> Analista de Dados, Business Intelligence | Data Analyst, Business Intelligence
 
 ---
 
@@ -35,19 +35,19 @@ Sou um Analista de Dados focado em transformar dados brutos em insights que impu
 ### 📊 Estatísticas do GitHub / GitHub Stats
 
 <details>
-<summary>Clique para expandir</summary>
+<summary>Clique para expandir | Click to expand</summary>
 <br>
 <div align="center">
   <table align="center">
     <tr align="center">
       <td>
-        <a href="https://github.com/SEU_USUARIO_GITHUB">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <a href="https://github.com/KumaNics">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumaNics&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/SEU_USUARIO_GITHUB">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dark"/>
+        <a href="https://github.com/KumaNics">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumaNics&layout=compact&langs_count=7&theme=dark"/>
         </a>
       </td>
     </tr>
@@ -60,15 +60,13 @@ Sou um Analista de Dados focado em transformar dados brutos em insights que impu
 ### 📫 Contato & Redes Sociais / Contact & Social Media
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_DO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-almeida-hello" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
+  <a href="mailto:nicola.privado@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/nic.php" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </p>
-
----
