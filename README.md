@@ -29,7 +29,7 @@ Sou um Analista de Dados focado em transformar dados brutos em insights que impu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/powershell-original.svg" height="40" alt="php logo" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/ps-original.svg" height="40" alt="php logo" title="PHP" />
 </p>
 
 ---
